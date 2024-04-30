@@ -11,9 +11,9 @@ and the limits of the players jump.
 
 How can we acheive the same?
 
-We can accomplish this through the use of some basics physics equations and flip the script so we 
-define jump time and distance so calculate the gravity and speed. 
-Which is going to make making your game way easier.
+We can accomplish this through some basics physics equations and flip the script so we 
+define jump time and distance to calculate the gravity and speed. 
+This is going to make making your game way easier.
 
 Displacement = Initial Velocity * time + Acceleration * Time(squared) divided by 2
 
